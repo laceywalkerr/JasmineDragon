@@ -1,0 +1,16 @@
+C:\Users\Lacey\workspace\JasmineDragon\bin\Debug\net5.0\JasmineDragon.exe
+C:\Users\Lacey\workspace\JasmineDragon\bin\Debug\net5.0\JasmineDragon.deps.json
+C:\Users\Lacey\workspace\JasmineDragon\bin\Debug\net5.0\JasmineDragon.runtimeconfig.json
+C:\Users\Lacey\workspace\JasmineDragon\bin\Debug\net5.0\JasmineDragon.runtimeconfig.dev.json
+C:\Users\Lacey\workspace\JasmineDragon\bin\Debug\net5.0\JasmineDragon.dll
+C:\Users\Lacey\workspace\JasmineDragon\bin\Debug\net5.0\ref\JasmineDragon.dll
+C:\Users\Lacey\workspace\JasmineDragon\bin\Debug\net5.0\JasmineDragon.pdb
+C:\Users\Lacey\workspace\JasmineDragon\obj\Debug\net5.0\JasmineDragon.csprojAssemblyReference.cache
+C:\Users\Lacey\workspace\JasmineDragon\obj\Debug\net5.0\JasmineDragon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lacey\workspace\JasmineDragon\obj\Debug\net5.0\JasmineDragon.AssemblyInfoInputs.cache
+C:\Users\Lacey\workspace\JasmineDragon\obj\Debug\net5.0\JasmineDragon.AssemblyInfo.cs
+C:\Users\Lacey\workspace\JasmineDragon\obj\Debug\net5.0\JasmineDragon.csproj.CoreCompileInputs.cache
+C:\Users\Lacey\workspace\JasmineDragon\obj\Debug\net5.0\JasmineDragon.dll
+C:\Users\Lacey\workspace\JasmineDragon\obj\Debug\net5.0\ref\JasmineDragon.dll
+C:\Users\Lacey\workspace\JasmineDragon\obj\Debug\net5.0\JasmineDragon.pdb
+C:\Users\Lacey\workspace\JasmineDragon\obj\Debug\net5.0\JasmineDragon.genruntimeconfig.cache
