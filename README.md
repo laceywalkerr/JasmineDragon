@@ -3,7 +3,8 @@
 </p>
 
 # Jasmine Dragon
-a console app for fun
+Welcome to the Jasmine Dragon!
+Feel free to stop by for some tea and if you're lucky, a good proverb!
 
 *In Terminal to Run App:*
 
